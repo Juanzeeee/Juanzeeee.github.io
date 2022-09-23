@@ -42,3 +42,24 @@ a {
     color: #f9faf8;
     margin-top: auto;
 }
+
+.first {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1F2937;
+    height: 500px;
+}
+
+.first img {
+    height: 300px;
+    width: 500px;
+}
+
+.firsttext {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
