@@ -85,6 +85,10 @@ a {
 
 .first button {
     padding: 10px;
+    background-color: #3882f6;
+    color: #f9faf8;
+    border: 3px solid #f9faf8;
+    border-radius: 25px;
 }
 
 .second {
@@ -98,8 +102,6 @@ a {
     color: #1F2937;
     margin-top: 30px;
 }
-
-
 
 .second img{
     height: 200px;
@@ -115,9 +117,9 @@ a {
     gap: 70px;
     justify-content: center;
     align-items: center;
-    
-    
+
 }
+
 .boxes  {
     width: 200px;
     margin-top: 30px;
