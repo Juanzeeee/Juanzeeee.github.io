@@ -32,3 +32,13 @@ a {
     text-decoration: none;
     color: #f9faf8;
 }
+
+.footer {
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1F2937;
+    color: #f9faf8;
+    margin-top: auto;
+}
