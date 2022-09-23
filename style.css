@@ -17,11 +17,18 @@ body {
     color: #f9faf8;
     padding: 5px;
     line-height: 50px;
+    font-weight: bold;
 }
 
 ul {
     display: flex;
     list-style-type: none;
-    gap: 10px;
+    gap: 15px;
     padding: 5px;
+    font-weight: bold;
+}
+
+a {
+    text-decoration: none;
+    color: #f9faf8;
 }
