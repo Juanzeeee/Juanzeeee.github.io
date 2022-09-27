@@ -141,3 +141,33 @@ a {
 
 }
 
+.fourth {
+    display: flex;  
+    height: 400px;
+    justify-content: center;
+    align-items: center;
+}
+
+.fourth-box {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    height: 200px;
+    width: 800px;
+    background-color: #3882f6;
+    border-radius: 25px;
+    flex-wrap: wrap;
+}
+
+.fourth-header {
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+.fourth-text    {
+    font-size: 17px;
+}
+
+.fourth button {
+    padding: 15px;
+}
